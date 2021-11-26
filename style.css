@@ -192,6 +192,12 @@ body{
         height: 100px;
         width: 100px;
     }
+    .row-1{
+        margin: 0px;
+    }
+    .row-2{
+        margin: 0px;
+    }
     /* how it works */
     .work-heading{
         font-size: 20px;
